@@ -1,2 +1,2 @@
 # Cinema-Ticket-Booking-System-Cplusplus
-This program is developed in C++ using functions and all the basics of C++.
+#This code is developed by M.Nadir -This is an open source code for learning purpose. -This c++ program is based on all the basics of c++ to book tickets in cinema. -For further help or query regarding any sort of problem can contact me on contact given below. Contact info: Email: mohammadnadir189@gmail.com LinkedIn: www.linkedin.com/in/mohnadir Facebook: www.facebook.com/mnadirofficial Instagram: www.instagram.com/nadiir._
